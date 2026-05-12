@@ -282,7 +282,8 @@ renderTasks();
 ```
 ## OUTPUT
 
-<img width="1916" height="1081" alt="image" src="https://github.com/user-attachments/assets/a690deea-99f6-4584-94f0-887e436d3275" />
+<img width="1645" height="923" alt="togo" src="https://github.com/user-attachments/assets/d5d6d699-7fb9-44f0-8f86-ce9aac77656a" />
+
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
